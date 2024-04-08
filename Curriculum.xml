@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://luke-first-bucket.oss-cn-chengdu.aliyuncs.com/%E8%BD%AF%E4%BB%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/Curriculum.xsl"?>
+<curriculum>
+	<class>
+		<name>英语</name>
+		<teacher>茹瑛</teacher>
+		<time>周一 10:25</time>
+		<place>WM1503</place>
+	</class>
+	<class>
+		<name>科技论文写作</name>
+		<teacher>
+			任卫军
+		</teacher>
+		<time>周一 14:00</time>
+		<place>WX4304</place>
+	</class>
+	<class>
+		<name>数理统计</name>
+		<teacher>李青艳</teacher>
+		<time>周二 10:25</time>
+		<place>WX4303</place>
+	</class>
+	<class>
+		<name>软件体系结构</name>
+		<teacher>慕晨</teacher>
+		<time>周三 10:25</time>
+		<place>WM1510</place>
+	</class>
+	<class>
+		<name>计算机数学</name>
+		<teacher>南春丽</teacher>
+		<time>周五 10:25</time>
+		<place>WX4304</place>
+	</class>
+</curriculum>
+	
